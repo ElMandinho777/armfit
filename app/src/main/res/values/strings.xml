@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ArmFit</string>
+    <string name="elapsed_time">Tiempo total · %1$s</string>
+    <string name="exercise_time">Este ejercicio · %1$s</string>
+    <string name="settings">Configuración</string>
+</resources>
